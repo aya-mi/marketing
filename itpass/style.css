@@ -1,0 +1,21 @@
+section {
+    border: solid 1px #ccc;
+    padding: 10px 20px;
+}
+
+section h1 {
+    background-color: rgb(189, 195, 203);
+    border-left: solid 5px rgb(141, 168, 141);
+    padding: 5px 0 5px 10px;
+}
+
+main > h1 {
+    background: #cbd4d0;
+    box-shadow: 0px 0px 0px 5px #b9c1bd;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+}
+
+.katakana {
+    list-style-type: katakana;
+}
