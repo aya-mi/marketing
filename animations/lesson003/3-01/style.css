@@ -1,0 +1,13 @@
+.wrap {
+  height: 180px;
+  overflow: hidden;
+  width: 180px;
+}
+
+.test-image {
+  transition: 2s all ease-out;
+}
+
+.test-image:hover {
+  transform: scale(1.2, 1.2);
+}
